@@ -1,0 +1,11 @@
+C:\TestProject\Zayavki\Zayavki\bin\Debug\netcoreapp2.0\RequestsVodokanal.deps.json
+C:\TestProject\Zayavki\Zayavki\bin\Debug\netcoreapp2.0\RequestsVodokanal.runtimeconfig.json
+C:\TestProject\Zayavki\Zayavki\bin\Debug\netcoreapp2.0\RequestsVodokanal.runtimeconfig.dev.json
+C:\TestProject\Zayavki\Zayavki\bin\Debug\netcoreapp2.0\RequestsVodokanal.dll
+C:\TestProject\Zayavki\Zayavki\obj\Debug\netcoreapp2.0\RequestsVodokanal.csprojResolveAssemblyReference.cache
+C:\TestProject\Zayavki\Zayavki\obj\Debug\netcoreapp2.0\RequestsVodokanal.csproj.CoreCompileInputs.cache
+C:\TestProject\Zayavki\Zayavki\obj\Debug\netcoreapp2.0\RequestsVodokanal.AssemblyInfoInputs.cache
+C:\TestProject\Zayavki\Zayavki\obj\Debug\netcoreapp2.0\RequestsVodokanal.AssemblyInfo.cs
+C:\TestProject\Zayavki\Zayavki\bin\Debug\netcoreapp2.0\RequestsVodokanal.pdb
+C:\TestProject\Zayavki\Zayavki\obj\Debug\netcoreapp2.0\RequestsVodokanal.dll
+C:\TestProject\Zayavki\Zayavki\obj\Debug\netcoreapp2.0\RequestsVodokanal.pdb
